@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vigia Noturno</string>
+    <string name="notification_channel_id">vigia_noturno_channel</string>
+    <string name="notification_channel_name">Serviço Vigia Noturno</string>
+    <string name="notification_title">Vigia noturno ativo</string>
+    <string name="notification_monitoring">Monitorando ruído ambiente...</string>
+    <string name="notification_recording">GRAVANDO EVIDÊNCIA DE RUÍDO</string>
+</resources>
